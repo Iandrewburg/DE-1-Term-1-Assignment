@@ -48,7 +48,7 @@ The operational layer in this project contains 14 tables. Each of these tables c
 
 ## [EER_DIAGRAM](https://github.com/Iandrewburg/DE-1-Term-1-Assignment/blob/main/EER_Diagram.mwb)
 The EER diagram in this project displays the connection between the 14 relational tables in the data set. A link to the EER diagram SQL file is provided. The following diagram is a look at the relationships within the database: 
-![EER_DIAGRAM](https://github.com/Iandrewburg/DE-1-Term-1-Assignment/blob/main/EER_PDF.pdf)
+![EER_DIAGRAM](https://github.com/Iandrewburg/DE-1-Term-1-Assignment/blob/main/EER_DIAGRAM.png)
 
 ## Analytics Plan
 F1 racing information can be used to see the current F1 statistics, which vehicals are performing the best, which drivers are performing the best, and see which races are the fastest and intense. The analytical plan is to use this Formula 1 database to answer the following questions.
